@@ -1,0 +1,30 @@
+/* // ***************** order.html *************** // */
+#order{
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  height: 70vh;
+  background-image: url("https://cdn.pixabay.com/photo/2018/03/14/19/40/food-3226164_960_720.jpg");
+
+}
+#btn2{
+  margin-left: 5%;
+  margin-top: 1%;
+  padding: 20px 40px;
+  font-size: 20px;
+
+}
+#btn2:hover{
+  background-color: rgb(21, 255, 0);
+  color:white;
+  
+
+}
+#order h1{
+  text-align: center;
+  color: white;
+  margin-top: 10%;
+  font-family: 'Times New Roman', Times, serif;
+  font-size:70px; 
+}
