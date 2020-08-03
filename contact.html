@@ -33,3 +33,31 @@
         </div>
       </nav>
     </div>
+    <div class="container-fluid contact-us transparent">
+      <div id="cont">
+        <div class="Contacts">
+          <h1>CONTACT US</h1>
+          <form method="post" action=" /automations/{workflow_id}/emails/{workflow_email_id}/actions/start"
+            id="contacts">
+            <div class="row">
+              <div class="col-lg-6">
+                <input type="text" name="name" placeholder="Name..." class="form-control mb-4" id="username"
+                  style="background-color: transparent;">
+              </div>
+              <div class="col-lg-6">
+                <input type="email" name="Email" id="email" placeholder="Email..." class="form-control mb-4"
+                  style="background-color: transparent;">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-lg-12">
+                <textarea name="name" rows="3" cols="10" placeholder="Your message here..."
+                  class="form-control rounded-0" id="message" style="background-color: transparent;"></textarea>
+              </div>
+
+              <button class="btn btn-default mybtn" id="submit">submit</button>
+            </div>
+
+          </form>
+        </div>
+      </div>
