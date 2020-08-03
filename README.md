@@ -31,7 +31,7 @@
 
 
 
-   <img src="images/checkout.png">
+   <img src="images/contact.png">
 
    - At the favorites you can select the size, toppings and the crust and the checkout to get the total. 
 
