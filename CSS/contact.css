@@ -1,0 +1,32 @@
+#cont{
+    background-image: url(../images/pizza-5130773_1920.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+}
+#cont h1{
+    color: white;
+    text-align: center;
+}
+#username{
+width: 40vh;
+margin-left:1vw;
+color:white;
+}
+#email{
+margin-left: 1vw;
+color:white;
+width: 40vh;
+/* margin-right: 50vh; */
+}
+#message{
+color:white;
+margin-left: 4vh;
+width: 50vw;
+/* margin-right: 40vh; */
+}
+#submit{
+    color: rgb(19, 20, 20);
+    font-size: 40px;
+}
